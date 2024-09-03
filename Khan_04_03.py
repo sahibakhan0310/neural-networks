@@ -1,7 +1,4 @@
-# Khan, Sahiba
-# 1002_083_293
-# 2022_11_13
-# Assignment_04_03
+
 import pytest
 import numpy as np
 from cnn import CNN
